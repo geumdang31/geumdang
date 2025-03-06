@@ -11,7 +11,7 @@
 
 @media (orientation: landscape) {
 	/* Landscape 가로모드일 때 적용할 CSS */
-  .nav_var{width: 99vw;height: 3.5vw; margin-top: -6vw; margin-left: -9pt; background-color: #0E3767; position: fixed;}
+  .nav_var{width: 99vw;height: 3.5vw; margin-top: -6vw; margin-left: -1pt; background-color: #0E3767; position: fixed;}
   .nav_txt{font-size: 1.3vw; color: white; font-weight: bolder; margin-left: 3.5vw; padding-top: 1vw;}
   .sub_padding{padding-top: 5vw; position: relative;}
   .sub_sub{margin-left: 2vw; margin-top: 2vw; margin-bottom: 0.5vw; padding-top: 0.5vw; padding-bottom: 0.5vw;; font-weight: bolder; font-size: 1vw; text-align: center; background-color: gray; opacity: 0.7; width: 50vw; margin-left: 25vw;}
