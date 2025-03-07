@@ -3,7 +3,7 @@
   .nav_var{width: 101vw; height: 12vw; margin-top:-8vw; margin-left: -9pt; background-color: white; box-shadow: 0pt 1.8pt #D9D9D9; position: fixed; z-index: 1;}
   .nav_txt{font-size: 5vw; color: black; font-weight: bolder; text-align: center; padding-top: 3vw;}
   .sub_padding{padding-top: 6vw; position: relative;}
-  .sub_sub{margin-left: 2vw; margin-top: 8vw; margin-bottom: 0.5vw; padding-top: 0.9vw; padding-bottom: 0.7vw; font-weight: bolder; font-size: 5vw; text-align: center; color: white; background-color: gray; opacity: 0.7; width: 92vw; margin-left: 2vw;}
+  .sub_sub{margin-left: 2vw; margin-top: 8vw; margin-bottom: 0.5vw; padding-top: 0.9vw; padding-bottom: 0.7vw; font-weight: bolder; font-size: 5vw; text-align: center; color: white; background-color: gray; opacity: 0.7; width: 94vw; margin-left: 2vw;}
   .sub_explain{width: 90vw; margin-left: 3vw; font-size: 4vw; margin-top: 2vw;}
   hr{color: gray; width: 90vw;}
   .duqor{padding-bottom: 10vw;}
