@@ -16,7 +16,7 @@
   .nav_var{width: 101vw;height: 4.3vw; margin-top: -6vw; margin-left: -9pt; background-color: white;box-shadow: 0pt 1.5pt #D9D9D9; position: fixed; z-index: 1;}
   .nav_txt{font-size: 1.6vw; color: black; font-weight: bolder; text-align: center; padding-top: 1.3vw;}
   .sub_padding{padding-top: 5vw; position: relative;}
-  .sub_sub{margin-left: 2vw; margin-top: 2vw; margin-bottom: 0.5vw; padding-top: 0.4vw; padding-bottom: 0.6vw; font-size: 1vw; text-align: center; color: white; background-color: #BFBFBF; width: 50vw; margin-left: 25vw;}
+  .sub_sub{margin-left: 2vw; margin-top: 2vw; margin-bottom: 0.5vw; padding-top: 0.4vw; padding-bottom: 0.7vw; font-size: 1vw; text-align: center; color: white; background-color: #BFBFBF; width: 50vw; margin-left: 25vw;}
   .sub_explain{width: 50vw; margin-left: 25vw;}
   hr{color: gray; width: 50vw;}
   .duqor{margin-top: 8vw; width: 97vw; text-align: center; font-size: 0.8vw; color: gray; margin-bottom: 3vw;}
